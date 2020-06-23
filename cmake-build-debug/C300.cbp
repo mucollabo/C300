@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="C300"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/charles/Documents/GitHub/C300/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/C300/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/C300/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/C300/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/C300/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/charles/Documents/GitHub/C300/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/C300/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/C300/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/C300/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/C300/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/charles/Documents/GitHub/C300/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/C300/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/C300/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/C300/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/C300/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C300">
+				<Option output="/Users/charles/Documents/GitHub/C300/cmake-build-debug/C300" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/charles/Documents/GitHub/C300/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/charles/Documents/GitHub/C300/."/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/C300/cmake-build-debug/Makefile&quot;  VERBOSE=1 C300"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/C300/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/C300/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/C300/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C300/fast">
+				<Option output="/Users/charles/Documents/GitHub/C300/cmake-build-debug/C300" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/charles/Documents/GitHub/C300/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/charles/Documents/GitHub/C300/."/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/C300/cmake-build-debug/Makefile&quot;  VERBOSE=1 C300/fast"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/C300/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/C300/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/C300/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/001.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/002.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/003.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/004.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/005.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/006.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/007.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/008.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/009.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/010.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/011.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/012.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/013.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/014.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/015.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/016.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/017.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/018.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/019.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/020.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/021.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/022.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/023.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/024.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/025.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/026.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/027.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/028.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/029.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/030.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/031.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/032.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/033.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/034.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/035.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/036.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/037.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/038.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/039.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/040.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/041.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/042.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/043.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/044.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/045.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/046.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/047.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/048.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/049.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/050.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/051.c">
+			<Option target="C300"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/C300/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
